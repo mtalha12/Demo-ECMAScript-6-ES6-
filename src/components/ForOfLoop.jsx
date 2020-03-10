@@ -55,6 +55,30 @@ import React from 'react'
 //     //   {name: "Usama", city: "Karachi", age: 22}
 // }
 
+// // Example 6
+// const User = [
+//     {
+//         name: "Talha",
+//         city: "Karachi",
+//         age: 23
+//     },
+//     {
+//         name: "Kashan",
+//         city: "Karachi",
+//         age: 21
+//     },
+//     {
+//         name: "Usama",
+//         city: "Karachi",
+//         age: 22
+//     }
+// ]
+// for (var data of User) {
+//     console.log(data) // Answer = {name: "Talha", city: "Karachi", age: 23}
+//     //   {name: "Kashan", city: "Karachi", age: 21}
+//     //   {name: "Usama", city: "Karachi", age: 22}
+// }
+
 function ForOfLoopFunction() {
     return (
         <div>
