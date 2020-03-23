@@ -18,8 +18,9 @@ import { IterableAndLooping } from './components/IterableAndLooping';
 import { BuildInArrayFunction } from './components/BuildInArrayFunctions';
 import { Promises } from './components/Promises';
 import { BuildMyOwnPromise } from './components/BuildingYourOwnPromise';
+import { ChainingPromise_FlowControl } from './components/ChainingPromise_FlowControl';
 
-ReactDOM.render(<BuildMyOwnPromise />, document.getElementById('root'));
+ReactDOM.render(<ChainingPromise_FlowControl />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
